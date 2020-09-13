@@ -23,11 +23,19 @@
 
 `UUID` > `一个 UUID，供用户连接时验证身份使用`。
 
+### PATH
+
+`PATH` > `Websocket路径`。
+
+### UUID
+
+`AlterId` > `AlterId`。
+
 ## 注意
 
-WebSocket 路径为 `/`。
+默认WebSocket 路径为 `/`。可修改。
 
-`alterId` 为 `64`。
+默认`alterId` 为 `64`。可修改。
 
 V2Ray 将在部署时自动安装最新版本。
 
