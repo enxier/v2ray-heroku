@@ -1,4 +1,5 @@
-# V2Ray Heroku
+# V2Ray Heroku修改版
+## 修改内容：可自定义ws路径、alterid
 
 ## 概述
 
